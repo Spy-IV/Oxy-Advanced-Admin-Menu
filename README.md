@@ -28,7 +28,7 @@
 - Invisible/Visible
 - Add Money
 
-# [Download](https://github.com/Spy-IV/Oxy-Advanced-Admin-Menu/upload)
+# [Download](https://citizeniv.net/d/220-freerelease-oxy-advanced-admin-menu)
 
 ### **PREVIEW**
 ![](https://serving.photos.photobox.com/3530282812c7d16c4286b63e577180b29bf31b3bd4dae3306b6c1f9bbac92c37b9d9c33a.jpg)
